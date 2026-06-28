@@ -35,7 +35,7 @@ I build end-to-end ML systems that ship to production and show up in numbers.
 |---|---|---|---|
 | [🚗 Ford SQT Classifier](https://github.com/AmeyRathi12/ml-project) | Auto-validates instrument cluster symbols via CAN signals | Python · TensorFlow · CANoe | **90% cycle time cut** |
 | [👄 Lip Reading Assistant](https://github.com/AmeyRathi12/lip-reading-assistant) | Predicts spoken words from lip movement — zero audio | Python · TensorFlow · OpenCV | **~80% accuracy** |
-| [💳 India Credit Card Analysis](https://github.com/AmeyRathi12/india-creditcard-analysis) | Business insights from 26,000+ transactions, 6 cities | Python · SQL · Pandas | **4 actionable insights** |
+| [💳 India Credit Card Analysis](https://github.com/AmeyRathi12/india-creditcard-analysis) · [🚀 Live Demo](https://huggingface.co/spaces/Amey12/india-creditcard-analysis) | Business insights from 26,000+ transactions, 6 cities | Python · SQL · Pandas | **4 actionable insights** |
 | [📄 Multiple PDF Chat](https://github.com/AmeyRathi12/multiple-pdf-chat) | Chat with multiple PDFs simultaneously using RAG | LangChain · FAISS · Streamlit | End-to-end RAG pipeline |
 
 ---
@@ -57,6 +57,6 @@ I build end-to-end ML systems that ship to production and show up in numbers.
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/amey-rathi">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/amey-rathi-2594a8218/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:ameyrathi108@gmail.com">Email</a>
 </p>
